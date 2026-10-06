@@ -19,7 +19,7 @@ A program is expressed in terms of relations, represented as **facts** and **rul
    ```
    gprolog --version
    ```
-4. **Create a Prolog file** - create a folder (e.g. `Arul Prolog`) and a file `ex.pl` inside it.
+4. **Create a Prolog file** - create a folder (e.g. `Nowfil Prolog`) and a file `ex.pl` inside it.
 5. **Configure your Git username**
    ```
    git config --global user.name "your name"
